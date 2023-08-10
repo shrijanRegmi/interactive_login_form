@@ -1,16 +1,17 @@
-# interactive_login
+# Interactive Login Form
 
-A new Flutter project.
+An interactive login form made using Flutter
 
-## Getting Started
+## Demo
 
-This project is a starting point for a Flutter application.
+https://github.com/shrijanRegmi/interactive_login_form/assets/47274622/a7ca6817-d31b-4929-bd9b-ed21052eb6ca
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
+1. The eyelid of the teddy bear tracks the user's typing movement
+2. The teddy bear closes its eyes when the user interacts with the password field
+3. The teddy bear shows a happy reaction when the login is successfull and shows a sad reaction when the login is failure.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
